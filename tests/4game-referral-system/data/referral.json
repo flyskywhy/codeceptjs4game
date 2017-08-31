@@ -1,0 +1,153 @@
+{
+    "common": {
+      "title": "Приглашение в Фогейм",
+      "revault_key": "",
+      "commonGame": "pointblank",
+      "commonGameTitle": "Point Blank",
+      "testingGame": "pointblank",
+      "gameId": "",
+      "gameTitle": "",
+      "description": "Получайте бонусы и награды за достижения, приглашая и играя в Фогейме",
+      "titles": {
+        "auth_referrer_new_screen_prefix": "Приведи друга в",
+        "unauth_referral_new_screen_prefix": "Го в",
+        "unauth_referral_old_screen_prefix": "Заходи в",
+        "auth_referral_new_screen_prefix": "Го в"
+      },
+      "steps": {
+        "first_step_title": "Отправь ссылку другу",
+        "first_step_referral_title": "Войди в свой аккаунт\nи установи название игры",
+        "first_step_referral_newbie_title": "Создай аккаунт\nв Фогейме и установи\nназвание игры"
+      },
+      "sharing": {
+        "image": "",
+        "title": "Приглашение в Фогейм",
+        "description": "Получайте бонусы и награды за достижения, приглашая и играя в Фогейме"
+      },
+      "snippets": {
+        "referrer_new_step2_title": "",
+        "referrer_old_step2_title": "",
+        "referral_new_step2_id": "",
+        "referral_new_step2_title": "",
+        "referral_old_step2_id": "",
+        "referral_old_step2_title": "",
+        "referral_new_step3_id": "",
+        "referral_old_step3_id": ""
+      },
+      "achievementNewbieTitle": "",
+      "achievementNewbieReferralStep3": "",
+      "faq": "",
+      "faqText": ""
+    },
+    "pointblank": {
+      "title": "Приглашение в Point Blank",
+      "revault_key": "referral-system",
+      "gameId": "pointblank",
+      "gameTitle": "Point Blank",
+      "description": "Получайте бонусы и награды за достижения, приглашая и играя в Point Blank",
+      "titles": {
+        "auth_referrer_new_screen_prefix": "Приведи друга в",
+        "unauth_referral_new_screen_prefix": "Го в",
+        "unauth_referral_old_screen_prefix": "Заходи в",
+        "auth_referral_new_screen_prefix": "Го в"
+      },
+      "steps": {
+        "first_step_title": "Отправь ссылку другу",
+        "first_step_referral_title": "Зайди в Фогейм\nи установи Point Blank",
+        "first_step_referral_newbie_title": "Зайди в Фогейм\nи установи Point Blank"
+      },
+      "sharing": {
+        "image": "pb-share.jpg",
+        "title": "Подарки тебе и мне",
+        "description": "Начни играть в Point Blank по моей ссылке — и оба получим бонусы и награды за достижения."
+      },
+      "snippets": {
+        "referrer_new_step2_title": "Выполни условия\nдостижения «Рекрутер»",
+        "referrer_old_step2_title": "Выполни условия\nдостижения «Рекрутер»",
+        "referral_new_step2_id": "pb-first-blood-2",
+        "referral_new_step2_title": "Выполни условия достижений\n«Верный друг» и «Первая кровь»",
+        "referral_old_step2_id": "pb-missed",
+        "referral_old_step2_title": "Выполни условия достижений\n«Блудный сын» и «PB, я скучал»",
+        "referral_new_step3_id": "loyal-friend",
+        "referral_old_step3_id": "no-one-left-behind"
+      },
+      "achievementNewbieTitle": "Первая кровь",
+      "achievementNewbieReferralStep3": "Верный друг",
+      "faq": "https://4gameforum.com/threads/544703/",
+      "faqText": "Ответы на часто задаваемые вопросы по реферальной системе"
+    },
+    "aion": {
+      "title": "Приглашение в Aion",
+      "revault_key": "referral-system",
+      "gameId": "aion",
+      "gameTitle": "Aion",
+      "description": "Получайте бонусы и награды за достижения, приглашая и играя в Aion",
+      "titles": {
+        "auth_referrer_new_screen_prefix": "Приведи друга в",
+        "unauth_referral_new_screen_prefix": "Го в",
+        "unauth_referral_old_screen_prefix": "Заходи в",
+        "auth_referral_new_screen_prefix": "Го в"
+      },
+      "steps": {
+        "first_step_title": "Отправь ссылку другу",
+        "first_step_referral_title": "Зайди в Фогейм\nи установи Aion",
+        "first_step_referral_newbie_title": "Зайди в Фогейм\nи установи Aion"
+      },
+      "sharing": {
+        "image": "aion-share.jpg",
+        "title": "Подарки тебе и мне",
+        "description": "Начни играть в Aion по моей ссылке — и оба получим бонусы и награды за достижения."
+      },
+      "snippets": {
+        "referrer_new_step2_title": "Выполни условия\nдостижения «Рекрутер»",
+        "referrer_old_step2_title": "Выполни условия\nдостижения «Рекрутер»",
+        "referral_new_step2_id": "aion-lets-go",
+        "referral_new_step2_title": "Выполни условия достижений\n«Верный друг» и «Поехали!»",
+        "referral_old_step2_id": "aion-second-wind",
+        "referral_old_step2_title": "Выполни условия достижений\n«Блудный сын» и «Второе дыхание»",
+        "referral_new_step3_id": "loyal-friend",
+        "referral_old_step3_id": "no-one-left-behind"
+      },
+      "achievementNewbieTitle": "Поехали!",
+      "achievementNewbieReferralStep3": "Верный друг",
+      "faq": "https://4gameforum.com/threads/561656/#post-8247059",
+      "faqText": "Верни друзей в строй и получи подарки!"
+    },
+    "bns": {
+      "title": "Приглашение в Blade & Soul",
+      "revault_key": "referral-system",
+      "gameId": "bns",
+      "gameTitle": "Blade & Soul",
+      "description": "Получайте бонусы и награды за достижения, приглашая и играя в Blade &amp; Soul",
+      "titles": {
+        "auth_referrer_new_screen_prefix": "Приведи друга в",
+        "unauth_referral_new_screen_prefix": "Го в",
+        "unauth_referral_old_screen_prefix": "Заходи в",
+        "auth_referral_new_screen_prefix": "Го в"
+      },
+      "steps": {
+        "first_step_title": "Отправь ссылку другу",
+        "first_step_referral_title": "Зайди в Фогейм\nи установи Blade & Soul",
+        "first_step_referral_newbie_title": "Зайди в Фогейм\nи установи Blade & Soul"
+      },
+      "sharing": {
+        "image": "bns-share.jpg",
+        "title": "Подарки тебе и мне",
+        "description": "Начни играть в Blade & Soul по моей ссылке — и оба получим бонусы и награды за достижения."
+      },
+      "snippets": {
+        "referrer_new_step2_title": "Выполни условия\nдостижения «Рекрутер»",
+        "referrer_old_step2_title": "Выполни условия\nдостижения «Рекрутер»",
+        "referral_new_step2_id": "bns-newbie",
+        "referral_new_step2_title": "Выполни условия достижений\n«Верный друг» и «Первый шаг к бессмертию»",
+        "referral_old_step2_id": "bns-returned",
+        "referral_old_step2_title": "Выполни условия достижений\n«Блудный сын» и «Великий мастер Кам Бэк»",
+        "referral_new_step3_id": "loyal-friend",
+        "referral_old_step3_id": "no-one-left-behind"
+      },
+      "achievementNewbieTitle": "Первый шаг к бессмертию",
+      "achievementNewbieReferralStep3": "Верный друг",
+      "faq": "https://4gameforum.com/threads/578431/",
+      "faqText": "FAQ: реферальная система"
+    }
+}

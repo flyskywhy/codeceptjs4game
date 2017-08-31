@@ -1,0 +1,111 @@
+{
+    "yandex_money": {
+        "id": "Yandex_money",
+        "title": "Яндекс.Деньги",
+        "fee_value": 0,
+        "fee_text": "Без комиссии",
+        "can_replenish": true,
+        "env": "ru",
+        "is_iframe": false,
+        "need_phone": false,
+        "payment_data": {
+            "login": "kulanova.lena@yandex.ru",
+            "password": "1q2w3e4r5t6y7u",
+            "payment_password": "4test4game",
+            "url": "demomoney.yandex.ru"
+        }
+    },
+    "qiwi_wallet": {
+        "id": "Osmppull",
+        "title": "QIWI Wallet",
+        "fee_value": 0,
+        "fee_text": "Без комиссии",
+        "can_replenish": true,
+        "env": "ru",
+        "is_iframe": false,
+        "need_phone": true,
+        "payment_data": {
+            "phone": "79379133149",
+            "url": "bill.qiwi.com"
+        }
+    },
+    "terminal": {
+        "id": "Osmppush",
+        "title": "Терминалы",
+        "fee_value": 0,
+        "fee_text": "Есть комиссия",
+        "can_replenish": false,
+        "env": "ru",
+        "is_iframe": false,
+        "need_phone": false
+    },
+    "mobile": {
+        "id": "Centili",
+        "title": "Мобильный",
+        "fee_value": 7,
+        "fee_text": "Комиссия 7%",
+        "can_replenish": false,
+        "env": "ru",
+        "is_iframe": false,
+        "need_phone": false
+    },
+    "yandex_card": {
+        "id": "Yandex_bank_card",
+        "title": "Пластиковая карта",
+        "fee_value": 0,
+        "fee_text": "Без комиссии",
+        "can_replenish": true,
+        "env": "ru",
+        "is_iframe": false,
+        "need_phone": false,
+        "payment_data": {
+            "card": "4268033703545624",
+            "exp_month": "01",
+            "exp_year": "20",
+            "cvc": "000",
+            "url": "demomoney.yandex.ru"
+        }
+    },
+    "yandex_card_iframe": {
+        "id": "Yandex_bank_card",
+        "title": "Пластиковая карта",
+        "fee_value": 0,
+        "fee_text": "Без комиссии",
+        "can_replenish": true,
+        "env": "ru",
+        "is_iframe": true,
+        "need_phone": false,
+        "payment_data": {
+            "card": "4268033703545624",
+            "exp_month": "01",
+            "exp_year": "20",
+            "cvc": "000"
+        }
+    },
+    "sbol": {
+        "id": "Yandex_sbol",
+        "title": "Сбербанк Онлайн",
+        "fee_value": 0,
+        "fee_text": "Без комиссии",
+        "can_replenish": true,
+        "env": "ru",
+        "is_iframe": false,
+        "need_phone": false,
+        "payment_data": {
+            "url": "demomoney.yandex.ru"
+        }
+    },
+    "webmoney": {
+        "id": "Webmoney",
+        "title": "Вебмани",
+        "fee_value": 0,
+        "fee_text": "Без комиссии",
+        "can_replenish": true,
+        "env": "ru",
+        "is_iframe": false,
+        "need_phone": false,
+        "payment_data": {
+            "url": "merchant.webmoney.ru"
+        }
+    }
+}

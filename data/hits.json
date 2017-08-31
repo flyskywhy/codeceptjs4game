@@ -1,0 +1,287 @@
+{
+    "TWWarhammer": {
+      "name": "Total War: Warhammer",
+      "platform": "Steam",
+      "url": "/total-war-warhammer/",
+      "recommendedGame": "DarkSouls3",
+      "serviceId": "31-total-war-warhammer",
+      "title": "Купить Total War: WARHAMMER для Steam",
+      "description": "Увеличивай свою скидку на игры для Steam и Uplay с каждой новой покупкой в Фогейме и получай подарки в любимых MMO-играх: Lineage 2, Aion, Point Blank.",
+      "ogdescription": "Введи кодовое слово Chaos и купи Total War: Warhammer дешевле, чем в Steam. Увеличивай свою скидку на игры для Steam и Uplay с каждой новой покупкой в Фогейме и получай подарки в любимых MMO-играх: Lineage 2, Aion, Point Blank.",
+      "status": "new",
+      "editions": {
+        "standard":{
+          "id": "total-war-warhammer",
+          "name": "Standard Edition",
+          "gold": false,
+          "price": {
+              "full": 1899,
+              "discount": 1749,
+              "bonus": 150
+            }
+        }
+      },
+      "codes": ["lepra",
+          "лепра",
+          "leprosorium",
+          "игромания",
+          "igromania",
+          "фогеймер",
+          "4gamer",
+          "хаос",
+          "chaos"]
+    },
+    "FarCryPrimal": {
+      "name": "Far Cry Primal",
+      "platform": "Uplay",
+      "url": "/far-cry-primal/",
+      "serviceId": "31-far-cry-primal",
+      "title": "Купить Far Cry Primal для Uplay",
+      "description": "Увеличивай свою скидку на игры для Steam и Uplay с каждой новой покупкой в Фогейме и получай подарки в любимых MMO-играх: Lineage 2, Aion, Point Blank.",
+      "ogdescription": "Введи кодовое слово охотник и купи Far Cry Primal дешевле, чем в Uplay. Увеличивай свою скидку на игры для Steam и Uplay с каждой новой покупкой в Фогейме и получай подарки в любимых MMO-играх: Lineage 2, Aion, Point Blank.",
+      "status": "new",
+      "editions": {
+        "standard": {
+          "name": "Standard Edition",
+          "id": "far-cry-primal-standard",
+          "gold": false,
+          "order": 1,
+          "price": {
+              "full": 1999,
+              "discount": 1799,
+              "bonus": 200
+            }
+        },
+        "apex": {
+          "name": "Apex Edition",
+          "id": "far-cry-primal-apex",
+          "gold": 1,
+          "order": 2,
+          "price": {
+            "full": 2299,
+            "discount": 2099,
+            "bonus": 200
+          }
+        }
+      },
+      "codes": ["lepra",
+          "лепра",
+          "leprosorium",
+          "игромания",
+          "igromania",
+          "фогеймер",
+          "4gamer",
+          "hunter",
+          "охотник"]
+    },
+    "Doom": {
+      "name": "Doom",
+      "platform": "Steam",
+      "url": "/doom/",
+      "serviceId": "31-doom",
+      "title": "Купить DOOM для Steam",
+      "description": "Увеличивай свою скидку на игры для Steam и Uplay с каждой новой покупкой в Фогейме и получай подарки в любимых MMO-играх: Lineage 2, Aion, Point Blank.",
+      "ogdescription": "Введи кодовое слово cacodemon и купи Doom дешевле, чем в Steam. Увеличивай свою скидку на игры для Steam и Uplay с каждой новой покупкой в Фогейме и получай подарки в любимых MMO-играх: Lineage 2, Aion, Point Blank.",
+      "status": "new",
+      "recommendedGame": "TheDivision",
+      "editions": {
+        "standard": {
+          "name": "Standard Edition",
+          "id": "doom",
+          "gold": false,
+          "price": {
+              "full": 1999,
+              "discount": 1849,
+              "bonus": 150
+            }
+        }
+      },
+      "codes": ["lepra",
+          "лепра",
+          "leprosorium",
+          "игромания",
+          "igromania",
+          "фогеймер",
+          "4gamer",
+          "Какодемон",
+          "cacodemon"]
+    },
+    "TheDivision": {
+      "name": "Tom Clancy’s The Division",
+      "platform": "Steam",
+      "url": "/tom-clancys-the-division/",
+      "serviceId": "31-doom",
+      "title": "Купить DOOM для Steam",
+      "description": "Увеличивай свою скидку на игры для Steam и Uplay с каждой новой покупкой в Фогейме и получай подарки в любимых MMO-играх: Lineage 2, Aion, Point Blank.",
+      "ogdescription": "Введи кодовое слово cacodemon и купи Doom дешевле, чем в Steam. Увеличивай свою скидку на игры для Steam и Uplay с каждой новой покупкой в Фогейме и получай подарки в любимых MMO-играх: Lineage 2, Aion, Point Blank.",
+      "status": "new",
+      "editions": {
+        "standard": {
+          "name": "Standard Edition",
+          "id": "doom",
+          "gold": false,
+          "price": {
+              "full": 1999,
+              "discount": 1849,
+              "bonus": 150
+            }
+        }
+      },
+      "codes": ["lepra",
+          "лепра",
+          "leprosorium",
+          "игромания",
+          "igromania",
+          "фогеймер",
+          "4gamer",
+          "Какодемон",
+          "cacodemon"]
+    },
+    "DarkSouls3": {
+      "name": "Dark Souls 3",
+      "url": "/dark-souls-3/"
+    },
+    "Deus Ex": {
+      "url": "/deus-ex-mankind-divided/",
+      "name":"Deus Ex: Mankind Divided"
+    },
+    "Dishonored2": {
+      "name": "Dishonored 2",
+      "url": "/dishonored-2/"
+    },
+
+    "Mafia3": {
+      "name": "Mafia 3",
+      "platform": "Steam",
+      "url": "/mafia-3/",
+      "serviceId": "31-mafia-3",
+      "title": "Купить Mafia 3 для Steam",
+      "description": "Увеличивай свою скидку на игры для Steam и Uplay с каждой новой покупкой в Фогейме и получай подарки в любимых MMO-играх: Blade and Soul, Lineage 2, Aion, Point Blank.",
+      "ogdescription": "Увеличивай свою скидку на игры для Steam и Uplay с каждой новой покупкой в Фогейме и получай подарки в любимых MMO-играх: Blade and Soul, Lineage 2, Aion, Point Blank.",
+      "status": "preorder",
+      "recommendedGame": "Deus Ex",
+      "editions": {
+        "standard": {
+          "name": "Standard Edition",
+          "id": "mafia-3-standard",
+          "gold": false,
+          "order": 1,
+          "price": {
+              "full": 1999,
+              "discount": 1849,
+              "bonus": 150
+            }
+        },
+        "deluxe": {
+          "name": "Deluxe Edition",
+          "id": "mafia-3-deluxe",
+          "gold": 1,
+          "order": 2,
+          "price": {
+            "full": 2699,
+            "discount": 2499,
+            "bonus": 200
+          }
+        }
+      },
+      "codes": ["lepra",
+          "лепра",
+          "leprosorium",
+          "игромания",
+          "igromania",
+          "фогеймер",
+          "4gamer",
+          "Lincoln",
+          "Линкольн"]
+    },
+    "Civilization6": {
+      "name": "Civilization 6",
+      "platform": "Steam",
+      "url": "/civilization-6/",
+      "serviceId": "31-civilization-6",
+      "title": "Купить Civilization 6 для Steam",
+      "description": "Увеличивай свою скидку на игры для Steam и Uplay с каждой новой покупкой в Фогейме и получай подарки в любимых MMO-играх: Blade and Soul, Lineage 2, Aion, Point Blank.",
+      "ogdescription": "Увеличивай свою скидку на игры для Steam и Uplay с каждой новой покупкой в Фогейме и получай подарки в любимых MMO-играх: Blade and Soul, Lineage 2, Aion, Point Blank.",
+      "ogimage": "",
+      "status": "preorder",
+      "recommendedGame": "Deus Ex",
+      "editions": {
+        "standard": {
+          "name": "Standard Edition",
+          "id": "civilization-6-standard",
+          "gold": false,
+          "order": 1,
+          "price": {
+              "full": 1999,
+              "discount": 1849,
+              "bonus": 150
+            }
+        },
+        "deluxe": {
+          "name": "Deluxe Edition",
+          "id": "civilization-6-deluxe",
+          "gold": 1,
+          "order": 2,
+          "price": {
+            "full": 2599,
+            "discount": 2399,
+            "bonus": 200
+          }
+        }
+      },
+      "codes": ["lepra",
+          "лепра",
+          "leprosorium",
+          "игромания",
+          "igromania",
+          "фогеймер",
+          "4gamer",
+          "Ганди",
+          "Gandi"]
+    },
+    "CODInfiniteWarfare": {
+      "name": "Call of Duty: Infinite Warfare",
+      "platform": "Steam",
+      "url": "/call-of-duty-infinite-warfare/",
+      "serviceId": "31-call-of-duty-infinite-warfare",
+      "title": "Купить Call of Duty: Infinite Warfare для Steam",
+      "description": "Увеличивай свою скидку на игры для Steam и Uplay с каждой новой покупкой в Фогейме и получай подарки в любимых MMO-играх: Blade and Soul, Lineage 2, Aion, Point Blank.",
+      "ogdescription": "Увеличивай свою скидку на игры для Steam и Uplay с каждой новой покупкой в Фогейме и получай подарки в любимых MMO-играх: Blade and Soul, Lineage 2, Aion, Point Blank.",
+      "ogimage": "",
+      "status": "preorder",
+      "recommendedGame": "Dishonored2",
+      "editions": {
+        "standard": {
+          "name": "Standard Edition",
+          "id": "call-of-duty-infinite-warfare",
+          "gold": false,
+          "order": 1,
+          "price": {
+              "full": 1999,
+              "discount": 1749,
+              "bonus": 150
+            }
+        },
+        "deluxe": {
+          "name": "Legacy Edition",
+          "id": "call-of-duty-infinite-warfare-legacy",
+          "gold": 1,
+          "order": 2,
+          "price": {
+            "full": 2999,
+            "discount": 2709,
+            "bonus": 250
+          }
+        }
+      },
+      "codes": ["lepra",
+          "лепра",
+          "leprosorium",
+          "игромания",
+          "igromania",
+          "фогеймер",
+          "4gamer",
+          "Прайс",
+          "Price"]
+    }
+  }

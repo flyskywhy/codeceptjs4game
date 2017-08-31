@@ -1,0 +1,18 @@
+{
+  "..\/..\/cli": {
+    "stdout": "-",
+    "options": {
+      "verbose": true
+    }
+  },
+  "mochawesome": {
+    "stdout": "./output/console.log",
+    "options": {
+      "reporterOptions": {
+        "reportDir": "output",
+        "reportName": "report",
+        "reportTitle": "4game Test Report"
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "apps" : [{
+    "name"        : "selenium",
+    "script"      : "./4game-feature-tests/selenium.js",
+    "watch"       : false
+  }]
+}

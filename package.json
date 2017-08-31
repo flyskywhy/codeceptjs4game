@@ -1,0 +1,25 @@
+{
+  "name": "4game-feature-tests",
+  "description": "4game tests powered by CodeceptJS",
+  "scripts": {
+    "codeceptjs": "codeceptjs run -R mocha-multi"
+  },
+  "dependencies": {
+    "codeceptjs": "1.0.2",
+    "form-data": "^2.0.0",
+    "fs-extra": "^0.18.2",
+    "git-rev-sync": "^1.7.1",
+    "mocha-multi": "0.11.0",
+    "mochawesome": "2.3.0",
+    "ncp": "^1.0.1",
+    "rimraf": "^2.3.2",
+    "stream": "0.0.2",
+    "sync-request": "^3.0.0",
+    "tar": "^2.1.0",
+    "tar.gz": "^1.0.1",
+    "webdrivercss": "git+https://git@github.com/APshenkin/webdrivercss.git#beta-rc1",
+    "webdriverio": "3.4.0",
+    "csv-parse": "^1.1.7",
+    "winreg": "^1.2.2"
+  }
+}

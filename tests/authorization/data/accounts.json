@@ -1,0 +1,84 @@
+{
+  "partner": {
+    "yandex": {
+      "email": "mail.inn@yandex.ru",
+      "password": "4game.ru",
+      "nick": "PLAYER2456827"
+    },
+    "fb": {
+      "email": "my-tests1@mail.ru",
+      "password": "testFbPassAuth",
+      "nick": "PLAYER8068490"
+    },
+    "vk": {
+      "email": "testfb1@yandex.ru",
+      "password": "4game.ru",
+      "login": "qa5297986",
+      "nick": "PLAYER7972285"
+    },
+    "ok": {
+      "email": "4gameLogin2",
+      "password": "password1",
+      "nick": "PLAYER1514342"
+    },
+    "forgame": {
+      "email": "qa53031715@test.inn.ru",
+      "password": "123456",
+      "login": "loginqa"
+    },
+    "long": {
+      "email": "qaTestTooLongEmail1234567890qaTestTooLongEmail1234567890@tooLong.ru",
+      "password": "qaTestTooLongPassword1234567890qaTestTooLongPassword1234567890",
+      "login": "qaTestTooLongLogin1234567890qaTestTooLongLogin1234567890"
+    },
+    "short": {
+      "email": "qaqaq"
+    }
+  },
+
+  "fb": {
+    "email": "natalya.chufyrina@inn.ru",
+    "password": "qweasd123",
+    "id": "119693301832391",
+    "login": "Наталья"
+  },
+  "vk": {
+    "email": "testfb1@yandex.ru",
+    "password": "4game.ru",
+    "login": "testfb1@yandex.ru",
+    "id": "200104077"
+  },
+  "ok": {
+    "email": "my-tests@mail.ru",
+    "password": "qweasd1",
+    "id": "570119650048",
+    "login": "ergrt"
+  },
+  "yandex": {
+    "email": "kulanova.lena@yandex.ru",
+    "password": "1q2w3e4r5t6y7u",
+    "id": "94582256"
+  },
+  "game": {
+    "email": "tyu@inn.ru",
+    "password": "123456",
+    "login": "tyu@inn.ru"
+  },
+  "fb_for_auth": {
+    "email": "my-tests1@mail.ru",
+    "password": "testFbPassAuth"
+  },
+  "forgame": {
+    "email": "qa53031715@test.inn.ru",
+    "password": "123456",
+    "login": "loginqa"
+  },
+  "long": {
+    "email": "qaTestTooLongEmail1234567890qaTestTooLongEmail1234567890@tooLong.ru",
+    "password": "qaTestTooLongPassword1234567890qaTestTooLongPassword1234567890",
+    "login": "qaTestTooLongLogin1234567890qaTestTooLongLogin1234567890"
+  },
+  "short": {
+    "email": "qaqaq"
+  }
+}

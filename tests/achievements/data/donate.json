@@ -1,0 +1,125 @@
+{
+        "forgame": {
+            "experimental_donate_a": {
+                "id": "experimental-donate",
+                "context": {
+                  "sumToAdd": 500,
+                  "reward": 25
+                },
+                "isHidden": false,
+                "isUnlimited": true,
+                "maxProgress": 1,
+                "title": "Донат",
+                "prize": "+ 25 руб.",
+                "conditions": "Как получить?\nПополни счет на 500 или более рублей за раз (не работает с подарочными кодами)"
+            },
+            "experimental_donate_a1": {
+                "id": "experimental-donate",
+                "context": {
+                  "sumToAdd": 500,
+                  "reward": 25
+                },
+                "isHidden": false,
+                "isUnlimited": true,
+                "maxProgress": 1,
+                "title": "Донат",
+                "prize": "+ 25 руб.",
+                "conditions": "Как получить?\nПополни счет на 500 или более рублей за раз (не работает с подарочными кодами)"
+            },
+            "experimental_donate_a2": {
+                "id": "experimental-donate",
+                "context": {
+                  "sumToAdd": 500,
+                  "reward": 25
+                },
+                "isHidden": false,
+                "isUnlimited": true,
+                "maxProgress": 1,
+                "title": "Донат",
+                "prize": "+ 25 руб.",
+                "conditions": "Как получить?\nПополни счет на 500 или более рублей за раз (не работает с подарочными кодами)"
+            },
+            "experimental_donate_b": {
+                "id": "experimental-donate",
+                "context": {
+                  "sumToAdd": 400,
+                  "reward": 75
+                },
+                "isHidden": false,
+                "isUnlimited": true,
+                "maxProgress": 1,
+                "title": "Донат",
+                "prize": "+ 75 руб.",
+                "conditions": "Как получить?\nПополни счет на 400 или более рублей за раз (не работает с подарочными кодами)"
+            },
+            "experimental_donate_c": {
+                "id": "experimental-donate",
+                "context": {
+                  "sumToAdd": 400,
+                  "reward": 100
+                },
+                "isHidden": false,
+                "isUnlimited": true,
+                "maxProgress": 1,
+                "title": "Донат",
+                "prize": "+ 100 руб.",
+                "conditions": "Как получить?\nПополни счет на 400 или более рублей за раз (не работает с подарочными кодами)"
+            },
+            "experimental_donate_d": {
+                "id": "experimental-donate",
+                "context": {
+                  "sumToAdd": 500,
+                  "reward": 100
+                },
+                "isHidden": false,
+                "isUnlimited": true,
+                "maxProgress": 1,
+                "title": "Донат",
+                "prize": "+ 100 руб.",
+                "conditions": "Как получить?\nПополни счет на 500 или более рублей за раз (не работает с подарочными кодами)"
+            },
+            "experimental_donate_e": {
+                "id": "experimental-donate",
+                "context": {
+                  "sumToAdd": 500,
+                  "reward": 150
+                },
+                "isHidden": false,
+                "isUnlimited": true,
+                "maxProgress": 1,
+                "title": "Донат",
+                "prize": "+ 150 руб.",
+                "conditions": "Как получить?\nПополни счет на 500 или более рублей за раз (не работает с подарочными кодами)"
+            },
+            "experimental_donate_f": {
+                "id": "experimental-donate",
+                "context": {
+                  "sumToAdd": 2500,
+                  "reward": 375,
+                  "sumAdded": 1230,
+                  "sumExpirationDate" : 1475400117000
+                },
+                "isHidden": false,
+                "isUnlimited": true,
+                "maxProgress": 1,
+                "title": "Донат",
+                "prize": "+ 375 руб.",
+                "conditions": "Как получить?\nПополни счет на 2500 или более рублей в этом месяце (не работает с подарочными кодами). Осталось %s "
+            },
+            "experimental_donate_g": {
+                "id": "experimental-donate",
+                "context": {
+                  "sumToAdd": 3500,
+                  "reward": 500,
+                  "sumAdded": 1230,
+                  "sumExpirationDate" : 1475400117000
+                },
+                "isHidden": false,
+                "isUnlimited": true,
+                "maxProgress": 1,
+                "title": "Донат",
+                "prize": "+ 500 руб.",
+                "conditions": "Как получить?\nПополни счет на 3500 или более рублей в этом месяце (не работает с подарочными кодами). Осталось %s "
+            }
+        }
+}

@@ -1,0 +1,98 @@
+{
+    "default_game": {
+        "play_url": "/pointblank/play/",
+        "serviceId": "8"
+    },
+    "Aion": {
+        "serviceId": "9",
+        "url": "/aion/",
+        "install_url": "/aion/install/",
+        "play_url": "/aion/play/",
+        "name": "Aion",
+        "licenceHeader": "Лицензионное соглашение\nв отношении программного обеспечения «Клиент»",
+        "userAgreementHeader": "Пользовательское соглашение"
+    },
+    "Pointblank": {
+        "serviceId": "8",
+        "url": "/pointblank/",
+        "install_url": "/pointblank/install-current/",
+        "play_url": "/pointblank/play/",
+        "name": "Point Blank",
+        "licenceHeader": "Лицензионное соглашение\nв отношении программного обеспечения «Клиент»",
+        "userAgreementHeader": "Пользовательское соглашение",
+        "licence1": 169,
+        "licence2": 54
+    },
+    "Lineage2": {
+        "serviceId": "6",
+        "url": "/lineage2/",
+        "install_url": "/lineage2/install/",
+        "play_url": "/lineage2/play/",
+        "name": "Lineage 2",
+        "licenceHeader": "Лицензионное соглашение\nв отношении программного обеспечения «Клиент»",
+        "userAgreementHeader": "Пользовательское соглашение"
+    },
+    "Lineage2classic": {
+        "serviceId": "33",
+        "url": "/lineage2classic/",
+        "install_url": "/lineage2classic/install/",
+        "play_url": "/lineage2classic/play/",
+        "name": "Lineage 2 Classic",
+        "licenceHeader": "Лицензионное соглашение\nв отношении программного обеспечения «Клиент»",
+        "userAgreementHeader": "Пользовательское соглашение"
+    },
+    "RFOnline": {
+        "serviceId": "1",
+        "url": "/rf/",
+        "install_url": "/rf/install/",
+        "play_url": "/rf/play/",
+        "name": "RF Online",
+        "licenceHeader": "Лицензионное соглашение\nв отношении программного обеспечения «Клиент»",
+        "userAgreementHeader": "Пользовательское соглашение"
+    },
+    "R2Online": {
+        "serviceId": "2",
+        "url": "/r2/",
+        "install_url": "/r2/install/",
+        "play_url": "/r2/play/",
+        "name": "R2",
+        "licenceHeader": "Лицензионное соглашение\nв отношении программного обеспечения «Клиент»",
+        "userAgreementHeader": "Пользовательское соглашение"
+    },
+    "APB": {
+        "serviceId": "17",
+        "url": "/apb/",
+        "install_url": "/apb/install/",
+        "play_url": "/apb/play/",
+        "name": "APB Reloaded",
+        "licenceHeader": "Лицензионное соглашение\nв отношении программного обеспечения «Клиент»",
+        "userAgreementHeader": "Пользовательское соглашение"
+    },
+    "BnS": {
+        "serviceId": "22",
+        "url": "/bns/",
+        "install_url": "/bns/install/",
+        "play_url": "/bns/play/",
+        "name": "Blade & Soul",
+        "licenceHeader": "Лицензионное соглашение\nв отношении клиентского программного обеспечения многопользовательской онлайн игры «Blade & Soul»",
+        "userAgreementHeader": "Пользовательское соглашение"
+    },
+    "Drakensang": {
+        "serviceId": "32",
+        "url": "/drakensang/",
+        "install_url": "/drakensang/install/",
+        "play_url": "/drakensang/play/",
+        "name": "Drakensang Online",
+        "licenceHeader": "Лицензионное соглашение",
+        "userAgreementHeader": "Общие условия Пользовательского\nсоглашения Bigpoint S.à.r.l. and Co, SCS (далее\n«Bigpoint»)"
+    },
+    "DevilsThirdOnline": {
+        "serviceId": "46",
+        "url": "/devilsthirdonline/",
+        "install_url": "/devilsthirdonline/install/",
+        "play_url": "/devilsthirdonline/play/",
+        "name": "Devil’s Third Online",
+        "licenceHeader": "Приложение №2\nЛицензионное соглашение в отношении программного обеспечения многопользовательской онлайн игры «Devil’s Third Online»",
+        "userAgreementHeader": "ПОЛЬЗОВАТЕЛЬСКОЕ СОГЛАШЕНИЕ\nна Тестирование по приглашениям и Тестирование по заявкам многопользовательской онлайн игры «Devil’s Third Online»"
+    }
+}

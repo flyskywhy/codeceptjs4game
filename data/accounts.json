@@ -1,0 +1,47 @@
+{
+    "yandex": {
+        "email": "mail.inn@yandex.ru",
+        "password": "4game.ru",
+        "id": 196475344,
+        "type": 17
+    },
+
+    "fb": {
+        "email": "inntestingfacebook@yandex.ru",
+        "password": "4game.ru",
+        "id": 114544919005461,
+        "type": 4
+    },
+
+    "vk": {
+        "email": "testfb1@yandex.ru",
+        "password": "4game.ru",
+        "login": "qa5297986",
+        "id": 200104077,
+        "type": 5
+    },
+
+    "ok": {
+        "email": "4gameLogin2",
+        "password": "password1",
+        "login": "qa5297986",
+        "id": 563731894129,
+        "type": 14
+    },
+
+    "forgame": {
+        "email": "qa53031715@test.inn.ru",
+        "password": "123456",
+        "login": "loginqa"
+    },
+
+    "long": {
+        "email": "qaTestTooLongEmail1234567890qaTestTooLongEmail1234567890@tooLong.ru",
+        "password": "qaTestTooLongPassword1234567890qaTestTooLongPassword1234567890",
+        "login": "qaTestTooLongLogin1234567890qaTestTooLongLogin1234567890"
+    },
+
+    "short": {
+        "email": "qaqaq"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "money_and_bonus": {
+        "emission": 1011648
+    },
+    "money_and_bonus_and_item_with_char": {
+        "emission": 1011652
+    },
+    "item_without_char": {
+        "emission": 1047555
+    },
+    "subscription": {
+        "emission": 1014179
+    },
+    "role_tester": {
+        "emission": 1024495
+    }
+}

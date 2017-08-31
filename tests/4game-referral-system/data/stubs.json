@@ -1,0 +1,24 @@
+{
+    "lineage2": {
+      "title": "Приглашение в Lineage 2",
+      "revault_key": "referral-system",
+      "gameId": "lineage2",
+      "gameTitle": "Lineage 2",
+      "description": "Lineage 2 награждает героев Эльморадена подарками и званиями за приведение новых игроков и возвращение друзей.",
+      "header": "Акция завершилась",
+      "pageDescription": "К сожалению, акция завершилась, получать призы за выполненные задания можно было до 19 сентбря.\nНе огорчайся, приключения в Lineage 2 по-прежнему продолжаются, к тому же, мы еще обязательно повторим нашу акцию!",
+      "buttonText": "Играть в Lineage 2",
+      "achievement": "l2ru-referral-invited-newbie"
+    },
+    "lineage2classic": {
+      "title": "Lineage 2 Classic — Возвращение друзей",
+      "revault_key": "referral-system",
+      "gameId": "lineage2classic",
+      "gameTitle": "Lineage 2 Classic",
+      "description": "Lineage 2 Classic награждает героев Эльморадена подарками и званиями за возвращение друзей.",
+      "header": "Акция завершилась",
+      "pageDescription": "К сожалению, акция завершилась, получать призы за выполненные задания можно было до 6 октября.\nНе огорчайся, приключения в Lineage 2 Classic по-прежнему продолжаются,\nк тому же, мы еще обязательно повторим нашу акцию!",
+      "buttonText": "Играть в Lineage 2 Classic",
+      "achievement": "l2clru-referral-newbie"
+    }
+}

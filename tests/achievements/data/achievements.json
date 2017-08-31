@@ -1,0 +1,375 @@
+{
+    "groups": {
+        "aion": {
+            "aion-came-to-call": {
+                "id": "aion-came-to-call",
+                "isHidden": true
+            },
+            "aion-came-to-call-2": {
+                "id": "aion-came-to-call-2",
+                "isHidden": true
+            },
+            "aion-in-flight-again": {
+                "id": "aion-in-flight-again",
+                "isHidden": true
+            },
+            "aion-returned-hero": {
+                "id": "aion-returned-hero",
+                "isHidden": true
+            },
+            "aion-returned-hero-2": {
+                "id": "aion-returned-hero-2",
+                "isHidden": true
+            },
+            "aion-second-wind": {
+                "id": "aion-second-wind",
+                "isHidden": true
+            },
+            "aion-veteran-2-years": {
+                "group": "aion",
+                "id": "aion-veteran-2-years",
+                "isHidden": false,
+                "maxProgress": 620,
+                "isUnlimited": false,
+                "hasScrollBar": true,
+                "more_prizes": true,
+                "prizes_count": 10,
+                "title": "Ветеран 2 лет"
+            }
+        },
+        "bns": {
+            "bns-bagua-immortal-gandzi": {
+                "id": "bns-bagua-immortal-gandzi",
+                "isHidden": true
+            },
+            "bns-beta-tester": {
+                "id": "bns-beta-tester",
+                "isHidden": true
+            },
+            "bns-main-quest-completed": {
+                "id": "bns-main-quest-completed",
+                "isHidden": true
+            },
+            "bns-participant-by-gift-pack": {
+                "id": "bns-participant-by-gift-pack",
+                "isHidden": true
+            },
+            "bns-participant-by-guru-pack": {
+                "id": "bns-participant-by-guru-pack",
+                "isHidden": true
+            },
+            "bns-participant-by-master-pack": {
+                "id": "bns-participant-by-master-pack",
+                "isHidden": true
+            },
+            "bns-participant-by-pupil-pack": {
+                "id": "bns-participant-by-pupil-pack",
+                "isHidden": true
+            },
+            "bns-returned": {
+                "id": "bns-returned",
+                "isHidden": true
+            },
+            "bns-scraping-dungeons": {
+                "id": "bns-scraping-dungeons",
+                "isHidden": true
+            }
+        },
+        "dto": {
+            "dto-alpha-tester": {
+                "id": "dto-alpha-tester",
+                "isHidden": true
+            },
+            "dto-cbt-participant-by-application": {
+                "id": "dto-cbt-participant-by-application",
+                "isHidden": true
+            },
+            "dto-cbt-participant-golden-pack": {
+                "id": "dto-cbt-participant-golden-pack",
+                "isHidden": true
+            },
+            "dto-cbt-participant-platinum-pack": {
+                "id": "dto-cbt-participant-platinum-pack",
+                "isHidden": true
+            },
+            "dto-cbt-participant-silver-pack": {
+                "id": "dto-cbt-participant-silver-pack",
+                "isHidden": true
+            }
+        },
+        "forgame": {
+            "ambassador": {
+                "group": "forgame",
+                "id": "ambassador",
+                "isHidden": false,
+                "isUnlimited": true,
+                "maxProgress": 2,
+                "title": "Глаз-алмаз",
+                "money_prize": 40
+            },
+            "atlantica-honorary-rip": {
+                "id": "atlantica-honorary-rip",
+                "isHidden": true
+            },
+            "atlantica-rip": {
+                "id": "atlantica-rip",
+                "isHidden": true
+            },
+            "close-acquaintances": {
+                "group": "forgame",
+                "id": "close-acquaintances",
+                "isHidden": false,
+                "isUnlimited": false,
+                "maxProgress": 2,
+                "title": "Близкие знакомые",
+                "prize": "Проще в службе поддержки"
+            },
+            "dp-honorary-rip": {
+                "id": "dp-honorary-rip",
+                "isHidden": true
+            },
+            "dp-rip": {
+                "id": "dp-rip",
+                "isHidden": true
+            },
+            "durov": {
+                "group": "forgame",
+                "id": "durov",
+                "isHidden": false,
+                "isUnlimited": false,
+                "maxProgress": 1,
+                "title": "Дуров, верни стену!",
+                "prize": "Удобный вход"
+            },
+            "evangelist": {
+                "id": "evangelist",
+                "isHidden": false,
+                "isUnlimited": true,
+                "maxProgress": 50,
+                "title": "Евангелист",
+                "money_prize": 375
+            },
+            "knowledge-is-power": {
+                "id": "knowledge-is-power",
+                "title": "Знание — сила",
+                "maxProgress": 1,
+                "isHidden": true
+            },
+            "loyal-friend": {
+                "id": "loyal-friend",
+                "isHidden": true
+            },
+            "no-one-left-behind": {
+                "id": "no-one-left-behind",
+                "isHidden": true
+            },
+            "pc-master-race": {
+                "id": "pc-master-race",
+                "isHidden": false,
+                "isUnlimited": false,
+                "maxProgress": 3,
+                "title": "Пекабоярин",
+                "money_prize": 300
+            },
+            "plus-1000": {
+                "id": "plus-1000",
+                "isHidden": true
+            },
+            "plus-100500": {
+                "id": "plus-100500",
+                "isHidden": true
+            },
+            "plus-500": {
+                "id": "plus-500",
+                "isHidden": true,
+                "isUnlimited": false,
+                "maxProgress": 1,
+                "title": "Донат"
+            },
+            "propagandist": {
+                "id": "propagandist",
+                "isHidden": false,
+                "isUnlimited": true,
+                "maxProgress": 10,
+                "title": "Пропагандист",
+                "money_prize": 50
+            },
+            "ps2-honorary-rip": {
+                "id": "ps2-honorary-rip",
+                "isHidden": true
+            },
+            "ps2-rip": {
+                "id": "ps2-rip",
+                "isHidden": true
+            },
+            "recruiter": {
+                "id": "recruiter",
+                "isHidden": false,
+                "isUnlimited": true,
+                "maxProgress": 2,
+                "title": "Рекрутер",
+                "money_prize": 10
+            },
+            "witness": {
+                "id": "witness",
+                "isHidden": true
+            },
+            "yandex-identity": {
+                "id": "yandex-identity",
+                "isHidden": false,
+                "isUnlimited": false,
+                "maxProgress": 1,
+                "title": "Найдется все для игрока",
+                "prize": "Подарки и сюрпризы от Яндекса по особым поводам"
+            }
+        },
+        "halo": {
+            "halo-10-level-beta-test": {
+                "id": "halo-10-level-beta-test",
+                "isHidden": true
+            },
+            "halo-alpha-spartan": {
+                "id": "halo-alpha-spartan",
+                "isHidden": true
+            },
+            "halo-alpha-tester": {
+                "id": "halo-alpha-tester",
+                "isHidden": true
+            },
+            "halo-basic-or-premium-pack": {
+                "id": "halo-basic-or-premium-pack",
+                "isHidden": true
+            },
+            "halo-beta-tester": {
+                "id": "halo-beta-tester",
+                "isHidden": true
+            },
+            "halo-from-call-to-call": {
+                "id": "halo-from-call-to-call",
+                "isHidden": true
+            },
+            "halo-little-bit-test": {
+                "id": "halo-little-bit-test",
+                "isHidden": true
+            },
+            "halo-spartan-pack": {
+                "id": "halo-spartan-pack",
+                "isHidden": true
+            },
+            "halo-taster": {
+                "id": "halo-taster",
+                "isHidden": true
+            },
+            "halo-vip-killers-club": {
+                "id": "halo-vip-killers-club",
+                "isHidden": true
+            },
+            "halo-you-tried": {
+                "id": "halo-you-tried",
+                "isHidden": true
+            }
+        },
+        "l2clru": {
+            "l2clru-referral-epic": {
+                "id": "l2clru-referral-epic",
+                "isHidden": true
+            },
+            "l2clru-referral-newbie": {
+                "id": "l2clru-referral-newbie",
+                "isHidden": true
+            },
+            "l2clru-referral-pro": {
+                "id": "l2clru-referral-pro",
+                "isHidden": true
+            },
+            "l2clru-referrer-invited-epic": {
+                "id": "l2clru-referrer-invited-epic",
+                "isHidden": true
+            },
+            "l2clru-referrer-invited-newbie": {
+                "id": "l2clru-referrer-invited-newbie",
+                "isHidden": true
+            },
+            "l2clru-referrer-invited-pro": {
+                "id": "l2clru-referrer-invited-pro",
+                "isHidden": true
+            },
+            "l2clru-responded": {
+                "id": "l2clru-responded",
+                "isHidden": true
+            },
+            "l2clru-responded-newbie": {
+                "id": "l2clru-responded-newbie",
+                "isHidden": true
+            }
+        },
+        "l2ru": {
+            "l2ru-referral-invited-epic": {
+                "id": "l2ru-referral-invited-epic",
+                "isHidden": true
+            },
+            "l2ru-referral-invited-newbie": {
+                "id": "l2ru-referral-invited-newbie",
+                "isHidden": true
+            },
+            "l2ru-referral-invited-pro": {
+                "id": "l2ru-referral-invited-pro",
+                "isHidden": true
+            },
+            "l2ru-referrer-epic": {
+                "id": "l2ru-referrer-epic",
+                "isHidden": true
+            },
+            "l2ru-referrer-newbie": {
+                "id": "l2ru-referrer-newbie",
+                "isHidden": true
+            },
+            "l2ru-referrer-pro": {
+                "id": "l2ru-referrer-pro",
+                "isHidden": true
+            }
+        },
+        "pointblank": {
+            "pb-collection": {
+                "id": "pb-collection",
+                "isHidden": true
+            },
+            "pb-collection-2": {
+                "id": "pb-collection-2",
+                "isHidden": true
+            },
+            "pb-first-blood": {
+                "id": "pb-first-blood",
+                "isHidden": true,
+                "maxProgress": 200
+            },
+            "pb-first-blood-2": {
+                "id": "pb-first-blood-2",
+                "isHidden": true,
+                "isUnlimited": true,
+                "maxProgress": 2,
+                "title": "Первая кровь",
+                "step1_context": "{'identity':true}",
+                "unlock_context": "{'pbFirstBloodUnlocked':true,'identity':true}"
+            },
+            "pb-happy-birthday": {
+                "id": "pb-happy-birthday",
+                "isHidden": true
+            },
+            "pb-missed": {
+                "id": "pb-missed",
+                "isHidden": true
+            },
+            "pb-six-anniversary": {
+                "id": "pb-six-anniversary",
+                "isHidden": true
+            },
+            "pb-best-of-the-best": {
+                "id": "pb-best-of-the-best",
+                "isHidden": false,
+                "maxProgress": 7,
+                "title": "Всю неделю потел"
+            }
+        }
+    }
+}

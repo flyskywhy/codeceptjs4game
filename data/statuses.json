@@ -1,0 +1,139 @@
+{
+    "not_installed": {
+        "services": [{
+            "configurable": false,
+            "extendedStatus": true,
+            "info": "null",
+            "serviceId": "%s",
+            "status": "not_installed"
+        }]
+    },
+    "paused": {
+        "services": [{
+            "action": "install",
+            "configurable": true,
+            "inExtendedStatus": "full",
+            "info": {
+                "downloaded": "116502335",
+                "estimated": "506475",
+                "file.name": "rus.paks",
+                "fileProgress": {
+                    "downloaded": "116502335",
+                    "size": "756578335"
+                },
+                "progress": "25",
+                "size": "3165980177",
+                "speed": "11.51"
+            },
+            "outExtendedStatus": "full",
+            "serviceId": "%s",
+            "status": "paused"
+        }]
+    },
+    "unpacking": {
+        "services": [{
+            "outExtendedStatus": "full",
+            "action": "install",
+            "inExtendedStatus": "full",
+            "serviceId": "%s",
+            "configurable": true,
+            "status": "progress",
+            "info": {
+                "size": "116502335",
+                "fileProgress": {
+                    "size": "116502335",
+                    "downloaded": "116502335"
+                },
+                "estimated": "116502335",
+                "file.name": "rus.paks",
+                "progress": "75",
+                "downloaded": "116502335"
+            }
+        }]
+    },
+    "progress": {
+        "services": [{
+            "outExtendedStatus": "full",
+            "action": "install",
+            "inExtendedStatus": "full",
+            "serviceId": "%s",
+            "configurable": true,
+            "status": "progress",
+            "info": {
+                "size": "3165980177",
+                "fileProgress": {
+                    "size": "756578335",
+                    "downloaded": "116502335"
+                },
+                "estimated": "506475",
+                "file.name": "rus.paks",
+                "progress": "25",
+                "downloaded": "116502335",
+                "speed": "11.51"
+            }
+        }]
+    },
+    "repair": {
+        "services": [{
+            "outExtendedStatus": "full",
+            "action": "repair",
+            "inExtendedStatus": "full",
+            "serviceId": "%s",
+            "configurable": true,
+            "status": "progress",
+            "info": {
+                "size": "3165980177",
+                "fileProgress": {
+                    "size": "756578335",
+                    "downloaded": "116502335"
+                },
+                "estimated": "506475",
+                "file.name": "rus.paks",
+                "progress": "25",
+                "downloaded": "116502335",
+                "speed": "11.51"
+            }
+        }]
+    },
+    "finished": {
+        "services": [{
+            "outExtendedStatus": "full",
+            "action": "install",
+            "inExtendedStatus": "full",
+            "serviceId": "%s",
+            "configurable": false,
+            "status": "finished",
+            "info": {
+                "checking": false,
+                "fileName": "rus.paks",
+                "size": "116502335",
+                "fileProgress": {
+                    "size": "116502335",
+                    "downloaded": "116502335"
+                },
+                "estimated": "506475",
+                "progress": "100",
+                "downloaded": "116502335",
+                "speed": "11.51"
+            }
+        }]
+    },
+    "installed": {
+        "services": [{
+            "configurable": false,
+            "extendedStatus": true,
+            "info": {},
+            "serviceId": "%s",
+            "status": "installed"
+        }]
+    },
+    "full_update_required": {
+        "services": [{
+            "serviceId": "%s",
+            "extendedStatus": "full",
+            "configurable": true,
+            "status": "full_update_required",
+            "info": "null"
+        }]
+    }
+}
